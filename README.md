@@ -13,7 +13,7 @@ https://github.com/jerrybeau89/jate
   2. [Usage](#usage)
   3. [License](#license)
   4. [Tests](#tests)
-  5. [Video](#video)
+  5. [Link](#link)
   6. [Questions](#questions)
 
 ## Installation
