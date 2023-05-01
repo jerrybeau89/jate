@@ -2,7 +2,7 @@
 A repo that will hold code for a PWA called Just A Text Editor
 
 ## Description
-
+JATE is a functional PWA text editor that works offline. JATE is capable of being installed on the browser locally. Caches and uses manifest.json. and allows for javascript syntax coloring in the editor.
 
 https://github.com/jerrybeau89/jate
 
@@ -20,6 +20,7 @@ https://github.com/jerrybeau89/jate
 npm install jate
 
 ## Usage
+
 Navigate to the repo integrated terminal
 
  Then to prepare the application to run it. 
@@ -28,13 +29,11 @@ Navigate to the repo integrated terminal
 
   `npm run install`
 
-  `npm run start:dev`
-
-  or to run nodemon 
-
-  `npm run develop`
+  `npm run start`
 
     And the application will start!
+
+Once the application has started, navigate to ***localhost:3000***. From there you will be able to use the text-editor. You will also be presented the opportunity to install the app to use offline. Then you can navigate to the app via the url button for JATE. 
 
 ## License
 
@@ -61,10 +60,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Tests
+Run the cli commands, install, throttle your internet and play with the editor. 
 
-
-## Video
-Here is a video of the program being used: 
+## Link
+https://jate-fun.herokuapp.com/
 
 ## Questions
 
